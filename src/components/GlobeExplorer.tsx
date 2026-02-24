@@ -10,7 +10,7 @@ import { FixedSizeList as List } from "react-window";
 const Globe = dynamic(() => import("react-globe.gl"), { ssr: false, loading: () => <div className="h-[70vh] w-full animate-pulse rounded-xl bg-slate-800" /> });
 
 export function GlobeExplorer() {
-  const ref = useRef<any>();
+  const ref = useRef<any>(null);
   const [q, setQ] = useState("");
   const results = useMemo(() => findCountry(q), [q]);
   const { places, panelOpen, loading, error, selectedPlace, pinsVisible, camera, countryIso, lastLoadMs } = useExplorerStore();
