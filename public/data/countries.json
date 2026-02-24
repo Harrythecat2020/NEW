@@ -1,0 +1,9 @@
+[
+  {"iso2":"NL","name":"Netherlands","lat":52.1326,"lng":5.2913},
+  {"iso2":"FR","name":"France","lat":46.2276,"lng":2.2137},
+  {"iso2":"ES","name":"Spain","lat":40.4637,"lng":-3.7492},
+  {"iso2":"US","name":"United States","lat":37.0902,"lng":-95.7129},
+  {"iso2":"JP","name":"Japan","lat":36.2048,"lng":138.2529},
+  {"iso2":"IT","name":"Italy","lat":41.8719,"lng":12.5674},
+  {"iso2":"DE","name":"Germany","lat":51.1657,"lng":10.4515}
+]
