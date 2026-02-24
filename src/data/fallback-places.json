@@ -1,0 +1,16 @@
+{
+  "NL": [
+    {"id":"nl-1","name":"Rijksmuseum","description":"Nationaal museum met Nederlandse kunst en geschiedenis in Amsterdam.","lat":52.359998,"lng":4.885219,"image":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Rijksmuseum.jpg","source":"Fallback dataset","type":"museum"},
+    {"id":"nl-2","name":"Kinderdijk","description":"UNESCO werelderfgoed met iconische molens en waterbeheer.","lat":51.885,"lng":4.642,"source":"Fallback dataset","type":"heritage"},
+    {"id":"nl-3","name":"Keukenhof","description":"Grote lentetuin met miljoenen bloemen en wandelroutes.","lat":52.270,"lng":4.546,"source":"Fallback dataset","type":"garden"},
+    {"id":"nl-4","name":"Domtoren","description":"Historische toren met uitzicht over Utrecht en omgeving.","lat":52.0909,"lng":5.1214,"source":"Fallback dataset","type":"tower"},
+    {"id":"nl-5","name":"Maasvlakte strand","description":"Uitgestrekt kustgebied voor wandelen en fotografie bij Rotterdam.","lat":51.970,"lng":4.020,"source":"Fallback dataset","type":"nature"}
+  ],
+  "FR": [
+    {"id":"fr-1","name":"Eiffeltoren","description":"Wereldberoemde toren en uitkijkpunt in Parijs.","lat":48.8584,"lng":2.2945,"source":"Fallback dataset"},
+    {"id":"fr-2","name":"Louvre","description":"Museum met klassieke en moderne topcollecties.","lat":48.8606,"lng":2.3376,"source":"Fallback dataset"},
+    {"id":"fr-3","name":"Mont Saint-Michel","description":"Historisch getijdeneiland met abdij en oude straten.","lat":48.636,"lng":-1.511,"source":"Fallback dataset"},
+    {"id":"fr-4","name":"Palace of Versailles","description":"Koninklijk paleis met grote tuinen en zalen.","lat":48.8049,"lng":2.1204,"source":"Fallback dataset"},
+    {"id":"fr-5","name":"Pont du Gard","description":"Romeins aquaduct en cultureel erfgoed in Zuid-Frankrijk.","lat":43.9475,"lng":4.535,"source":"Fallback dataset"}
+  ]
+}

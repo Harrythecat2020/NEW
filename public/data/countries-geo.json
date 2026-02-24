@@ -1,0 +1,9 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"iso_a2":"NL","name":"Netherlands"},"geometry":{"type":"Polygon","coordinates":[[[3.2,51.2],[7.3,51.2],[7.3,53.7],[3.2,53.7],[3.2,51.2]]]}},
+{"type":"Feature","properties":{"iso_a2":"FR","name":"France"},"geometry":{"type":"Polygon","coordinates":[[[-5.5,42.2],[8.2,42.2],[8.2,51.2],[-5.5,51.2],[-5.5,42.2]]]}},
+{"type":"Feature","properties":{"iso_a2":"ES","name":"Spain"},"geometry":{"type":"Polygon","coordinates":[[[-9.5,36],[3.5,36],[3.5,43.9],[-9.5,43.9],[-9.5,36]]]}},
+{"type":"Feature","properties":{"iso_a2":"US","name":"United States"},"geometry":{"type":"Polygon","coordinates":[[[-124,25],[-66,25],[-66,49],[-124,49],[-124,25]]]}},
+{"type":"Feature","properties":{"iso_a2":"JP","name":"Japan"},"geometry":{"type":"Polygon","coordinates":[[[129,31],[146,31],[146,45],[129,45],[129,31]]]}},
+{"type":"Feature","properties":{"iso_a2":"IT","name":"Italy"},"geometry":{"type":"Polygon","coordinates":[[[7,36],[19,36],[19,47],[7,47],[7,36]]]}},
+{"type":"Feature","properties":{"iso_a2":"DE","name":"Germany"},"geometry":{"type":"Polygon","coordinates":[[[5.8,47],[15.1,47],[15.1,55.1],[5.8,55.1],[5.8,47]]]}}
+]}
