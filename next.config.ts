@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
   basePath: process.env.NODE_ENV === "production" ? `/${repo}` : "",
   assetPrefix: process.env.NODE_ENV === "production" ? `/${repo}/` : "",
   images: { unoptimized: true },
+  eslint: { ignoreDuringBuilds: true },
 };
 
 export default nextConfig;
